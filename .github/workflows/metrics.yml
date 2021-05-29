@@ -14,11 +14,11 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          user: ktnkk
-          repo: ktnkk
-          committer_token: ${{ github.token }}
-          committer_branch: main
-          committer_message: Update metrics
+#           user: ktnkk
+#           repo: ktnkk
+#           committer_token: ${{ github.token }}
+#           committer_branch: main
+#           committer_message: Update metrics
 #           filename: metrics.svg
           config_timezone: Asia/Tokyo
           config_gemoji: yes
