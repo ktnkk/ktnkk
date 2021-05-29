@@ -1,16 +1,25 @@
 name: Metrics
 on:
+  # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: full-year # Display full year instead of half year
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 10                                   # Display up to 8 languages
+          plugin_languages_sections: most-used, recently-used          # Display most used and recently used languages stats
+          plugin_languages_indepth: yes                                # Get indepth stats (see documentation before enabling)
+          commits_authoring: ktnkk@oo@kiki.ooo                         # Surnames or email addresses used to identify your commits
           
