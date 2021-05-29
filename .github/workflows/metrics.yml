@@ -34,13 +34,13 @@ jobs:
           plugin_reactions_days: 200                 # Compute reactions on issue comments posted less than xxx days ago
           plugin_reactions_details: count, percentage # Display reactions count and percentage
           plugin_reactions_ignored: bot               # Ignore "bot" user
-          plugin_followup: yes
-          plugin_followup_sections: user #
-          plugin_achievements: yes
-          plugin_achievements_threshold: B       # Display achievements with rank B or higher
-          plugin_achievements_secrets: yes       # Display unlocked secrets achievements
-          plugin_achievements_ignored: octonaut  # Hide octonaut achievement
-          plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
+#           plugin_followup: yes
+#           plugin_followup_sections: user #
+#           plugin_achievements: yes
+#           plugin_achievements_threshold: B       # Display achievements with rank B or higher
+#           plugin_achievements_secrets: yes       # Display unlocked secrets achievements
+#           plugin_achievements_ignored: octonaut  # Hide octonaut achievement
+#           plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga             # Display both animes and mangas
           plugin_anilist_sections: favorites, characters  # Display only favorites and characters sections
