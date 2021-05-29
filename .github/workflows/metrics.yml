@@ -16,5 +16,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # Display full year instead of half year
-          plugin_introduction: no
-          
+          plugin_reactions: yes
+          plugin_reactions_limit: 9999                # Compute reactions over last xxx issue comments
+          plugin_reactions_days: 9999                 # Compute reactions on issue comments posted less than xxx days ago
+          plugin_reactions_details: count, percentage # Display reactions count and percentage
+          plugin_reactions_ignored: bot               # Ignore "bot" user
+          plugin_people: yes
+          plugin_people_types: followers, following  # Display followers and following sections
+          plugin_people_limit: 28                    # Limit to 28 entries per section
+          plugin_people_size: 28                     # Size in pixels of displayed avatars
+          plugin_people_identicons: no               # Use avatars (do not use identicons)
+          plugin_people_thanks: ""                   # Users that will be displayed in "thanks" section
+          plugin_people_sponsors_custom: ""          # Users that will be displayed additionally in "sponsors" section
+          plugin_people_shuffle: yes                 # Shuffle for varied output
