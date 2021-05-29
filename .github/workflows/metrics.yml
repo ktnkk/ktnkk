@@ -51,3 +51,6 @@ jobs:
           plugin_people_thanks: lowlighter, octocat  # Users that will be displayed in "thanks" section
           plugin_people_sponsors_custom: octocat     # Users that will be displayed additionally in "sponsors" section
           plugin_people_shuffle: yes                 # Shuffle for varied output
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user #
+          plugin_traffic: yes
