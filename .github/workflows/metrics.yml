@@ -34,3 +34,13 @@ jobs:
           config_timezone: Asia/Tokyo   # Set timezone
           plugin_stars: yes
           plugin_stars_limit: 4 # Limit to 4 entries
+          plugin_topics: yes
+          plugin_topics_sort: stars    # Sort by most starred topics
+          plugin_topics_mode: mastered # Display icons instead of labels
+          plugin_topics_limit: 0       # Disable limitations
+          plugin_reactions: yes
+          plugin_reactions_limit: 99999               # Compute reactions over last 200 issue comments
+          plugin_reactions_days: 999999               # Compute reactions on issue comments posted less than 14 days ago
+          plugin_reactions_details: count, percentage # Display reactions count and percentage
+          plugin_reactions_ignored: bot               # Ignore "bot" user
+          
