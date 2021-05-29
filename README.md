@@ -82,13 +82,13 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 ```
 
+<!--END_SECTION:waka-->
+
 ***
 
 🎼 **Metrics**
 
 ![Metrics](https://github.com/ktnkk/ktnkk/blob/main/github-metrics.svg)
-
-<!--END_SECTION:waka-->
 
 <details>
   <summary>More</summary>
@@ -133,4 +133,3 @@ HTML                     2 repos             ██░░░░░░░░░�
 <!--END_SECTION:activity-->
   
 </details>
-
