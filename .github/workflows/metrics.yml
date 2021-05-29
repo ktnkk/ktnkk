@@ -20,13 +20,18 @@ jobs:
           committer_branch: main
           committer_message: Update metrics
           filename: metrics.svg
+          config_timezone: Asia/Tokyo
+          config_gemoji: yes
+          config_twemoji: yes
+          config_display: large
+          config_padding: 0, 11%
           template: classic
           base: "header"
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # Display full year instead of half year
           plugin_reactions: yes
-          plugin_reactions_limit: 9999                # Compute reactions over last xxx issue comments
-          plugin_reactions_days: 9999                 # Compute reactions on issue comments posted less than xxx days ago
+          plugin_reactions_limit: 200                # Compute reactions over last xxx issue comments
+          plugin_reactions_days: 200                 # Compute reactions on issue comments posted less than xxx days ago
           plugin_reactions_details: count, percentage # Display reactions count and percentage
           plugin_reactions_ignored: bot               # Ignore "bot" user
           plugin_followup: yes
