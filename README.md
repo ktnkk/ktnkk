@@ -87,16 +87,31 @@ HTML                     2 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <details>
-  <summary></summary>
+  <summary>More</summary>
  
- <br>
+  <br>
  
- 🏆 **Github Profile Trophy**
+  🏆 **Github Profile Trophy**
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ktnkk&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&row=2&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=ktnkk&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&row=2&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
- 
- ***
- 
- 
+  ***
+  
+  🃏 **GitHub Profile Summary Cards**
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktnkk&theme=github_dark)
+  
+  <p align="left"> 
+    <img alt="Top Language by Repo" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktnkk&theme=github_dark" />
+    <img alt="Top Language by Commit" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktnkk&theme=github_dark" />
+  </p>
+  
+  <p align="left"> 
+    <img alt="Stats" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktnkk&theme=github_dark" />
+    <img alt="Commits per day hour(UTC)" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktnkk&theme=github_dark" />
+  </p>
+  
+  ***
+  
 </details>
 
