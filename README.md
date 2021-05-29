@@ -1,9 +1,9 @@
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=ktnkk&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
-  <img alt="GitHub stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktnkk&layout=compact&theme=dark&langs_count=10" />
+  <img alt="🐠" height="200px" src="https://github-readme-stats.vercel.app/api?username=ktnkk&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
+  <img alt="🐟" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktnkk&layout=compact&theme=dark&langs_count=10" />
 </p>
 
-[![visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fktnkk%2Fhit-counter&count_bg=%23070707&title_bg=%23070707&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=true)](https://hits.seeyoufarm.com)
+[![🐙](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fktnkk%2Fhit-counter&count_bg=%23070707&title_bg=%23070707&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ***
 
@@ -88,31 +88,29 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 🏆 **Github Profile Trophy**
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ktnkk&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&row=2&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
- 
-***
-
-🎼 **Metrics**
-
-![Metrics](https://github.com/ktnkk/ktnkk/blob/main/github-metrics.svg)
+[![🐬](https://github-profile-trophy.vercel.app/?username=ktnkk&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&row=2&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <details>
   <summary>More</summary>
  
   <br>
+
+  🎼 **Metrics**
+
+  ![🐳](https://github.com/ktnkk/ktnkk/blob/main/github-metrics.svg)
   
   🃏 **GitHub Profile Summary Cards**
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktnkk&theme=github_dark)
+  ![🐋](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktnkk&theme=github_dark)
   
   <p align="left"> 
-    <img alt="Top Language by Repo" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktnkk&theme=github_dark" />
-    <img alt="Top Language by Commit" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktnkk&theme=github_dark" />
+    <img alt="🦈" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktnkk&theme=github_dark" />
+    <img alt="🦭" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktnkk&theme=github_dark" />
   </p>
   
   <p align="left"> 
-    <img alt="Stats" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktnkk&theme=github_dark" />
-    <img alt="Commits per day hour(UTC)" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktnkk&theme=github_dark" />
+    <img alt="🦀" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktnkk&theme=github_dark" />
+    <img alt="🦑" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktnkk&theme=github_dark" />
   </p>
   
   ***
