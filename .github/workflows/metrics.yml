@@ -26,4 +26,9 @@ jobs:
           plugin_languages_sections: most-used, recently-used          # Display most used and recently used languages stats
           plugin_languages_indepth: yes                                # Get indepth stats (see documentation before enabling)
           commits_authoring: ktnkk@oo@kiki.ooo                         # Surnames or email addresses used to identify your commits
-
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          config_timezone: Asia/Tokyo   # Set timezone
