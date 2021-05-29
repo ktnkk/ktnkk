@@ -82,7 +82,11 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 ```
 
+***
 
+🎼 **Metrics**
+
+![Metrics](https://github.com/ktnkk/ktnkk/blob/main/github-metrics.svg)
 
 <!--END_SECTION:waka-->
 
@@ -110,10 +114,6 @@ HTML                     2 repos             ██░░░░░░░░░�
     <img alt="Stats" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktnkk&theme=github_dark" />
     <img alt="Commits per day hour(UTC)" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktnkk&theme=github_dark" />
   </p>
-  
-  ***
-  
-  ![Metrics](https://github.com/ktnkk/ktnkk/blob/main/github-metrics.svg)
   
   ***
   
