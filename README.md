@@ -113,6 +113,10 @@ HTML                     2 repos             ██░░░░░░░░░�
   
   ***
   
+  ![Metrics](https://github.com/ktnkk/ktnkk/blob/main/github-metrics.svg)
+  
+  ***
+  
   ⚡ **Recent Activity**
   
   <!--START_SECTION:activity-->
