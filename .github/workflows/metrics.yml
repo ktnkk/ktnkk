@@ -24,7 +24,7 @@ jobs:
           config_gemoji: yes
           config_twemoji: yes
           config_display: large
-          config_padding: 0, 11%
+#           config_padding: 0, 11%
           template: classic
           base: ""
           plugin_isocalendar: yes
