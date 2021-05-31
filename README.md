@@ -88,20 +88,20 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 ***
 
-🏆 **Github Profile Trophy**
-  
-[![🐬](https://github-profile-trophy.vercel.app/?username=ktnkk&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&row=1&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+🎼 **Metrics**
 
+![🐳](https://github.com/ktnkk/ktnkk/blob/main/github-metrics.svg)
+  
 ***
 
 <details>
   <summary>🧐 <strong>More</strong></summary>
  
   <br>
-
-  🎼 **Metrics**
-
-  ![🐳](https://github.com/ktnkk/ktnkk/blob/main/github-metrics.svg)
+  
+  🏆 **Github Profile Trophy**
+  
+  [![🐬](https://github-profile-trophy.vercel.app/?username=ktnkk&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&row=1&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
   
   ***
   
