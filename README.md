@@ -108,16 +108,10 @@ HTML                     2 repos             ██░░░░░░░░░�
   🃏 **GitHub Profile Summary Cards**
   
   ![🐋](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktnkk&theme=github_dark)
-  
-  <p align="left"> 
-    <img alt="🦈" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktnkk&theme=github_dark" />
-    <img alt="🦭" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktnkk&theme=github_dark" />
-  </p>
-  
-  <p align="left"> 
-    <img alt="🦀" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktnkk&theme=github_dark" />
-    <img alt="🦑" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktnkk&theme=github_dark" />
-  </p>
+  ![🦑](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktnkk&theme=github_dark)
+  ![🦭](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktnkk&theme=github_dark)
+  ![🦀](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktnkk&theme=github_dark)
+  ![🦈](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktnkk&theme=github_dark)
   
   ***
   
