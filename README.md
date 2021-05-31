@@ -1,6 +1,6 @@
 <p align="left"> 
-  <img alt="🐠" height="200px" src="https://github-readme-stats.vercel.app/api?username=ktnkk&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
-  <img alt="🐟" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktnkk&layout=compact&theme=dark&langs_count=10&hide=HTML,CSS,SCSS" />
+  <img alt="🐠" src="https://github-readme-stats.vercel.app/api?username=ktnkk&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
+  <img alt="🐟" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktnkk&layout=compact&theme=dark&langs_count=10&hide=HTML,CSS,SCSS" />
 </p>
 
 [![🐙](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fktnkk%2Fhit-counter&count_bg=%23070707&title_bg=%23070707&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -110,13 +110,13 @@ HTML                     2 repos             ██░░░░░░░░░�
   ![🐋](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktnkk&theme=github_dark)
   
   <p align="left"> 
-    <img alt="🦈" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktnkk&theme=github_dark" />
-    <img alt="🦭" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktnkk&theme=github_dark" />
+    <img alt="🦈" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktnkk&theme=github_dark" />
+    <img alt="🦭" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktnkk&theme=github_dark" />
   </p>
   
   <p align="left"> 
-    <img alt="🦀" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktnkk&theme=github_dark" />
-    <img alt="🦑" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktnkk&theme=github_dark" />
+    <img alt="🦀" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktnkk&theme=github_dark" />
+    <img alt="🦑" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktnkk&theme=github_dark" />
   </p>
   
   ***
