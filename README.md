@@ -7,9 +7,9 @@
 
 ***
 
-[<img src="https://readme-spotify-status-ktnkk.vercel.app/api/run-spotify-status" alt="🐙" width="500" />](https://github.com/ktnkk/)
+<!-- [<img src="https://readme-spotify-status-ktnkk.vercel.app/api/run-spotify-status" alt="🐙" width="500" />](https://github.com/ktnkk/)
 
-***
+*** -->
 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
