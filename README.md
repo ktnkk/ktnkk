@@ -106,7 +106,7 @@ CSS                      2 repos             ██░░░░░░░░░�
   
 ***
 
-## 📊 Other Github stats
+## 📊 Other Github Stats
 
 <details>
   <summary>🏆 <strong>Profile Trophies</strong></summary>
