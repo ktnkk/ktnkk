@@ -11,6 +11,12 @@
 
 *** -->
 
+🎧 **Now playing**
+
+[![🐟](https://spotify-github-profile.vercel.app/api/view?uid=31ybvkrtg6lpzufa4ap3lug3xjfy&cover_image=true&theme=default)](https://github.com/ktnkk/)
+
+***
+
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
