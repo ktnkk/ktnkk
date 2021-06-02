@@ -11,11 +11,13 @@
 
 *** -->
 
-🎧 **Now playing**
+## 🎧 Now Playing
 
 [![🐟](https://spotify-github-profile.vercel.app/api/view?uid=31ybvkrtg6lpzufa4ap3lug3xjfy&cover_image=true&theme=default)](https://github.com/ktnkk/)
 
 ***
+
+## 🏃‍♀️ This Week's Activity
 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
@@ -98,24 +100,28 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 ***
 
-🎼 **Metrics**
+## 🎼 My Metrics
 
 ![🐳](https://github.com/ktnkk/ktnkk/blob/main/github-metrics.svg)
   
 ***
 
+## 📊 Other Github stats
+
 <details>
-  <summary>🧐 <strong>More</strong></summary>
- 
-  <br>
+  <summary>🏆 <strong>Profile Trophies</strong></summary>
   
-  🏆 **Github Profile Trophy**
+  <br>
   
   [![🐬](https://github-profile-trophy.vercel.app/?username=ktnkk&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&row=1&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
   
   ***
+</details>
+
+<details>
+  <summary>🃏 <strong>Summary Cards</strong></summary>
   
-  🃏 **GitHub Profile Summary Cards**
+  <br>
   
   ![🐋](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktnkk&theme=github_dark)
   ![🦑](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktnkk&theme=github_dark)
@@ -124,8 +130,12 @@ CSS                      2 repos             ██░░░░░░░░░�
   ![🦈](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktnkk&theme=github_dark)
   
   ***
+</details>
+
+<details>
+  <summary>⚡ <strong>Recent Activities</strong></summary>
   
-  ⚡ **Recent Activity**
+  <br>
   
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#19](https://github.com/ktnkk/gatsby-sandbox/pull/19) in [ktnkk/gatsby-sandbox](https://github.com/ktnkk/gatsby-sandbox)
@@ -140,4 +150,25 @@ CSS                      2 repos             ██░░░░░░░░░�
 10. 🎉 Merged PR [#16](https://github.com/ktnkk/tasky/pull/16) in [ktnkk/tasky](https://github.com/ktnkk/tasky)
 <!--END_SECTION:activity-->
   
+***
+</details>
+
+<details>
+  <summary>🔥 <strong>Streak Stats</strong></summary>
+  
+  <br>
+  
+  [![🐠](http://github-readme-streak-stats.herokuapp.com?user=ktnkk&theme=dark)](https://git.io/streak-stats)
+  
+  ***
+</details>
+
+<details>
+  <summary>📈 <strong>Activity Graph</strong></summary>
+  
+  <br>
+  
+  [![🐡](https://activity-graph.herokuapp.com/graph?username=ktnkk&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  ***
 </details>
