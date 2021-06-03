@@ -13,7 +13,7 @@
 
 ## 🎧 Now Playing
 
-[![🐟](https://spotify-github-profile.vercel.app/api/view?uid=31ybvkrtg6lpzufa4ap3lug3xjfy&cover_image=true&theme=default)](https://github.com/ktnkk/)
+[![🐟](https://spotify-github-profile.vercel.app/api/view?uid=31ybvkrtg6lpzufa4ap3lug3xjfy&cover_image=true&theme=default)](https://open.spotify.com/user/31ybvkrtg6lpzufa4ap3lug3xjfy?si=4d057bb568954fa5)
 
 ***
 
