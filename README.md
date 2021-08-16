@@ -1,24 +1,20 @@
-<p align="left"> 
-  <img alt="🐠" src="https://github-readme-stats.vercel.app/api?username=ktnkk&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
-  <img alt="🐟" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktnkk&layout=compact&theme=dark&langs_count=10&hide=HTML,CSS,SCSS" />
-</p>
-
 [![🐙](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fktnkk%2Fhit-counter&count_bg=%23070707&title_bg=%23070707&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
-***
+<details>
+  <summary>🎼 <strong>My Metrics</strong></summary>
+  
+  <br>
+  
+ ![🐳](https://github.com/ktnkk/ktnkk/blob/main/github-metrics.svg)
+  
+  ***
+</details>
 
-<!-- [<img src="https://readme-spotify-status-ktnkk.vercel.app/api/run-spotify-status" alt="🐙" width="500" />](https://github.com/ktnkk/)
-
-*** -->
-
-## 🎧 Now Playing
-
-[![🐟](https://spotify-github-profile.vercel.app/api/view?uid=31ybvkrtg6lpzufa4ap3lug3xjfy&cover_image=true&theme=default)](https://open.spotify.com/user/31ybvkrtg6lpzufa4ap3lug3xjfy?si=4d057bb568954fa5)
-
-***
-
-## 🏃‍♀️ WakaTime Stats
-
+<details>
+  <summary>♀️ <strong>WakaTime Stats</strong></summary>
+  
+  <br>
+  
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
@@ -79,16 +75,33 @@ Mac                      42 hrs 34 mins      ███████████�
 
  Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
-
-***
-
-## 🎼 My Metrics
-
-![🐳](https://github.com/ktnkk/ktnkk/blob/main/github-metrics.svg)
   
-***
+  ***
+</details>
 
-## 📊 Other Github Stats
+
+<details>
+  <summary>🎧 <strong>Now Playing</strong></summary>
+  
+  <br>
+  
+ [![🐟](https://spotify-github-profile.vercel.app/api/view?uid=31ybvkrtg6lpzufa4ap3lug3xjfy&cover_image=true&theme=default)](https://open.spotify.com/user/31ybvkrtg6lpzufa4ap3lug3xjfy?si=4d057bb568954fa5)
+  
+  ***
+</details>
+
+<details>
+  <summary>🌟 <strong>GitHub Readme Stats</strong></summary>
+  
+  <br>
+  
+ <p align="left"> 
+  <img alt="🐠" src="https://github-readme-stats.vercel.app/api?username=ktnkk&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
+  <img alt="🐟" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktnkk&layout=compact&theme=dark&langs_count=10&hide=HTML,CSS,SCSS" />
+</p>
+  
+  ***
+</details>
 
 <details>
   <summary>🏆 <strong>Profile Trophies</strong></summary>
