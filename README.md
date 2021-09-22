@@ -133,16 +133,16 @@ Mac                      71 hrs 33 mins      ███████████�
   <br>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/ktnkk/gatsby-sandbox/pull/19) in [ktnkk/gatsby-sandbox](https://github.com/ktnkk/gatsby-sandbox)
-2. 🎉 Merged PR [#13](https://github.com/ktnkk/ulog/pull/13) in [ktnkk/ulog](https://github.com/ktnkk/ulog)
-3. 🎉 Merged PR [#6](https://github.com/ktnkk/copo/pull/6) in [ktnkk/copo](https://github.com/ktnkk/copo)
-4. ❌ Closed PR [#58](https://github.com/ktnkk/spring-boot-doma2-sample/pull/58) in [ktnkk/spring-boot-doma2-sample](https://github.com/ktnkk/spring-boot-doma2-sample)
-5. 🎉 Merged PR [#16](https://github.com/ktnkk/gatsby-sandbox/pull/16) in [ktnkk/gatsby-sandbox](https://github.com/ktnkk/gatsby-sandbox)
-6. 🎉 Merged PR [#17](https://github.com/ktnkk/gatsby-sandbox/pull/17) in [ktnkk/gatsby-sandbox](https://github.com/ktnkk/gatsby-sandbox)
-7. 🎉 Merged PR [#18](https://github.com/ktnkk/gatsby-sandbox/pull/18) in [ktnkk/gatsby-sandbox](https://github.com/ktnkk/gatsby-sandbox)
-8. 🎉 Merged PR [#5](https://github.com/ktnkk/copo/pull/5) in [ktnkk/copo](https://github.com/ktnkk/copo)
-9. 🎉 Merged PR [#12](https://github.com/ktnkk/ulog/pull/12) in [ktnkk/ulog](https://github.com/ktnkk/ulog)
-10. 🎉 Merged PR [#16](https://github.com/ktnkk/tasky/pull/16) in [ktnkk/tasky](https://github.com/ktnkk/tasky)
+1. ❗️ Closed issue [#5](https://github.com/ktnkk/blog/issues/5) in [ktnkk/blog](https://github.com/ktnkk/blog)
+2. 🗣 Commented on [#5](https://github.com/ktnkk/blog/issues/5) in [ktnkk/blog](https://github.com/ktnkk/blog)
+3. ❗️ Opened issue [#11](https://github.com/ktnkk/blog/issues/11) in [ktnkk/blog](https://github.com/ktnkk/blog)
+4. ❗️ Opened issue [#10](https://github.com/ktnkk/blog/issues/10) in [ktnkk/blog](https://github.com/ktnkk/blog)
+5. ❗️ Opened issue [#9](https://github.com/ktnkk/blog/issues/9) in [ktnkk/blog](https://github.com/ktnkk/blog)
+6. ❗️ Closed issue [#4](https://github.com/ktnkk/blog/issues/4) in [ktnkk/blog](https://github.com/ktnkk/blog)
+7. 🗣 Commented on [#4](https://github.com/ktnkk/blog/issues/4) in [ktnkk/blog](https://github.com/ktnkk/blog)
+8. ❗️ Opened issue [#8](https://github.com/ktnkk/blog/issues/8) in [ktnkk/blog](https://github.com/ktnkk/blog)
+9. 🎉 Merged PR [#94](https://github.com/ktnkk/tipswatch/pull/94) in [ktnkk/tipswatch](https://github.com/ktnkk/tipswatch)
+10. ❌ Closed PR [#45](https://github.com/miyabayt/spring-boot-doma2-sample/pull/45) in [miyabayt/spring-boot-doma2-sample](https://github.com/miyabayt/spring-boot-doma2-sample)
 <!--END_SECTION:activity-->
   
 ***
