@@ -133,16 +133,16 @@ Mac                      64 hrs 37 mins      ███████████�
   <br>
   
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/ktnkk/blog/issues/6) in [ktnkk/blog](https://github.com/ktnkk/blog)
-2. 🗣 Commented on [#6](https://github.com/ktnkk/blog/issues/6) in [ktnkk/blog](https://github.com/ktnkk/blog)
-3. ❗️ Closed issue [#5](https://github.com/ktnkk/blog/issues/5) in [ktnkk/blog](https://github.com/ktnkk/blog)
-4. 🗣 Commented on [#5](https://github.com/ktnkk/blog/issues/5) in [ktnkk/blog](https://github.com/ktnkk/blog)
-5. ❗️ Opened issue [#11](https://github.com/ktnkk/blog/issues/11) in [ktnkk/blog](https://github.com/ktnkk/blog)
-6. ❗️ Opened issue [#10](https://github.com/ktnkk/blog/issues/10) in [ktnkk/blog](https://github.com/ktnkk/blog)
-7. ❗️ Opened issue [#9](https://github.com/ktnkk/blog/issues/9) in [ktnkk/blog](https://github.com/ktnkk/blog)
-8. ❗️ Closed issue [#4](https://github.com/ktnkk/blog/issues/4) in [ktnkk/blog](https://github.com/ktnkk/blog)
-9. 🗣 Commented on [#4](https://github.com/ktnkk/blog/issues/4) in [ktnkk/blog](https://github.com/ktnkk/blog)
-10. ❗️ Opened issue [#8](https://github.com/ktnkk/blog/issues/8) in [ktnkk/blog](https://github.com/ktnkk/blog)
+1. 🎉 Merged PR [#1](https://github.com/ktnkk/blog.tech/pull/1) in [ktnkk/blog.tech](https://github.com/ktnkk/blog.tech)
+2. 💪 Opened PR [#1](https://github.com/ktnkk/blog.tech/pull/1) in [ktnkk/blog.tech](https://github.com/ktnkk/blog.tech)
+3. ❗️ Closed issue [#6](https://github.com/ktnkk/blog/issues/6) in [ktnkk/blog](https://github.com/ktnkk/blog)
+4. 🗣 Commented on [#6](https://github.com/ktnkk/blog/issues/6) in [ktnkk/blog](https://github.com/ktnkk/blog)
+5. ❗️ Closed issue [#5](https://github.com/ktnkk/blog/issues/5) in [ktnkk/blog](https://github.com/ktnkk/blog)
+6. 🗣 Commented on [#5](https://github.com/ktnkk/blog/issues/5) in [ktnkk/blog](https://github.com/ktnkk/blog)
+7. ❗️ Opened issue [#11](https://github.com/ktnkk/blog/issues/11) in [ktnkk/blog](https://github.com/ktnkk/blog)
+8. ❗️ Opened issue [#10](https://github.com/ktnkk/blog/issues/10) in [ktnkk/blog](https://github.com/ktnkk/blog)
+9. ❗️ Opened issue [#9](https://github.com/ktnkk/blog/issues/9) in [ktnkk/blog](https://github.com/ktnkk/blog)
+10. ❗️ Closed issue [#4](https://github.com/ktnkk/blog/issues/4) in [ktnkk/blog](https://github.com/ktnkk/blog)
 <!--END_SECTION:activity-->
   
 ***
