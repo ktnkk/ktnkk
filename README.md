@@ -133,16 +133,16 @@ Mac                      80 hrs 48 mins      ███████████�
   <br>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/ktnkk/blog/pull/16) in [ktnkk/blog](https://github.com/ktnkk/blog)
-2. 🎉 Merged PR [#14](https://github.com/ktnkk/blog/pull/14) in [ktnkk/blog](https://github.com/ktnkk/blog)
-3. 🎉 Merged PR [#13](https://github.com/ktnkk/blog/pull/13) in [ktnkk/blog](https://github.com/ktnkk/blog)
-4. 🎉 Merged PR [#12](https://github.com/ktnkk/blog/pull/12) in [ktnkk/blog](https://github.com/ktnkk/blog)
-5. 🎉 Merged PR [#1](https://github.com/ktnkk/blog.life/pull/1) in [ktnkk/blog.life](https://github.com/ktnkk/blog.life)
-6. 💪 Opened PR [#1](https://github.com/ktnkk/blog.life/pull/1) in [ktnkk/blog.life](https://github.com/ktnkk/blog.life)
-7. 🎉 Merged PR [#1](https://github.com/ktnkk/blog.fashion/pull/1) in [ktnkk/blog.fashion](https://github.com/ktnkk/blog.fashion)
-8. 💪 Opened PR [#1](https://github.com/ktnkk/blog.fashion/pull/1) in [ktnkk/blog.fashion](https://github.com/ktnkk/blog.fashion)
-9. ❗️ Closed issue [#9](https://github.com/ktnkk/blog/issues/9) in [ktnkk/blog](https://github.com/ktnkk/blog)
-10. 🗣 Commented on [#9](https://github.com/ktnkk/blog/issues/9) in [ktnkk/blog](https://github.com/ktnkk/blog)
+1. 🎉 Merged PR [#15](https://github.com/ktnkk/blog/pull/15) in [ktnkk/blog](https://github.com/ktnkk/blog)
+2. 🎉 Merged PR [#16](https://github.com/ktnkk/blog/pull/16) in [ktnkk/blog](https://github.com/ktnkk/blog)
+3. 🎉 Merged PR [#14](https://github.com/ktnkk/blog/pull/14) in [ktnkk/blog](https://github.com/ktnkk/blog)
+4. 🎉 Merged PR [#13](https://github.com/ktnkk/blog/pull/13) in [ktnkk/blog](https://github.com/ktnkk/blog)
+5. 🎉 Merged PR [#12](https://github.com/ktnkk/blog/pull/12) in [ktnkk/blog](https://github.com/ktnkk/blog)
+6. 🎉 Merged PR [#1](https://github.com/ktnkk/blog.life/pull/1) in [ktnkk/blog.life](https://github.com/ktnkk/blog.life)
+7. 💪 Opened PR [#1](https://github.com/ktnkk/blog.life/pull/1) in [ktnkk/blog.life](https://github.com/ktnkk/blog.life)
+8. 🎉 Merged PR [#1](https://github.com/ktnkk/blog.fashion/pull/1) in [ktnkk/blog.fashion](https://github.com/ktnkk/blog.fashion)
+9. 💪 Opened PR [#1](https://github.com/ktnkk/blog.fashion/pull/1) in [ktnkk/blog.fashion](https://github.com/ktnkk/blog.fashion)
+10. ❗️ Closed issue [#9](https://github.com/ktnkk/blog/issues/9) in [ktnkk/blog](https://github.com/ktnkk/blog)
 <!--END_SECTION:activity-->
   
 ***
