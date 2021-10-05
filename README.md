@@ -133,16 +133,16 @@ Mac                      75 hrs 40 mins      ███████████�
   <br>
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#63](https://github.com/ktnkk/blog/issues/63) in [ktnkk/blog](https://github.com/ktnkk/blog)
-2. 🎉 Merged PR [#62](https://github.com/ktnkk/blog/pull/62) in [ktnkk/blog](https://github.com/ktnkk/blog)
-3. 💪 Opened PR [#62](https://github.com/ktnkk/blog/pull/62) in [ktnkk/blog](https://github.com/ktnkk/blog)
-4. 🎉 Merged PR [#52](https://github.com/ktnkk/blog/pull/52) in [ktnkk/blog](https://github.com/ktnkk/blog)
-5. 🎉 Merged PR [#53](https://github.com/ktnkk/blog/pull/53) in [ktnkk/blog](https://github.com/ktnkk/blog)
-6. 🎉 Merged PR [#54](https://github.com/ktnkk/blog/pull/54) in [ktnkk/blog](https://github.com/ktnkk/blog)
-7. 🎉 Merged PR [#55](https://github.com/ktnkk/blog/pull/55) in [ktnkk/blog](https://github.com/ktnkk/blog)
-8. 🎉 Merged PR [#57](https://github.com/ktnkk/blog/pull/57) in [ktnkk/blog](https://github.com/ktnkk/blog)
-9. 🎉 Merged PR [#58](https://github.com/ktnkk/blog/pull/58) in [ktnkk/blog](https://github.com/ktnkk/blog)
-10. 🎉 Merged PR [#59](https://github.com/ktnkk/blog/pull/59) in [ktnkk/blog](https://github.com/ktnkk/blog)
+1. ❗️ Closed issue [#63](https://github.com/ktnkk/blog/issues/63) in [ktnkk/blog](https://github.com/ktnkk/blog)
+2. 🎉 Merged PR [#64](https://github.com/ktnkk/blog/pull/64) in [ktnkk/blog](https://github.com/ktnkk/blog)
+3. 💪 Opened PR [#64](https://github.com/ktnkk/blog/pull/64) in [ktnkk/blog](https://github.com/ktnkk/blog)
+4. ❗️ Opened issue [#63](https://github.com/ktnkk/blog/issues/63) in [ktnkk/blog](https://github.com/ktnkk/blog)
+5. 🎉 Merged PR [#62](https://github.com/ktnkk/blog/pull/62) in [ktnkk/blog](https://github.com/ktnkk/blog)
+6. 💪 Opened PR [#62](https://github.com/ktnkk/blog/pull/62) in [ktnkk/blog](https://github.com/ktnkk/blog)
+7. 🎉 Merged PR [#52](https://github.com/ktnkk/blog/pull/52) in [ktnkk/blog](https://github.com/ktnkk/blog)
+8. 🎉 Merged PR [#53](https://github.com/ktnkk/blog/pull/53) in [ktnkk/blog](https://github.com/ktnkk/blog)
+9. 🎉 Merged PR [#54](https://github.com/ktnkk/blog/pull/54) in [ktnkk/blog](https://github.com/ktnkk/blog)
+10. 🎉 Merged PR [#55](https://github.com/ktnkk/blog/pull/55) in [ktnkk/blog](https://github.com/ktnkk/blog)
 <!--END_SECTION:activity-->
   
 ***
