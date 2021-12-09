@@ -1,7 +1,7 @@
 [![🐙](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fktnkk%2Fhit-counter&count_bg=%23070707&title_bg=%23070707&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <details>
-  <summary>🎼 <strong>My Metrics</strong></summary>
+  <summary> <samp>My Metrics</samp></summary>
   
   <br>
   
@@ -11,7 +11,7 @@
 </details>
 
 <details>
-  <summary>♀️ <strong>WakaTime Stats</strong></summary>
+  <summary> <samp>WakaTime Stats</samp></summary>
   
   <br>
   
@@ -83,7 +83,7 @@ Mac                      76 hrs 27 mins      ███████████�
 
 
 <details>
-  <summary>🎧 <strong>Now Playing</strong></summary>
+  <summary> <samp>Now Playing</samp></summary>
   
   <br>
   
@@ -93,7 +93,7 @@ Mac                      76 hrs 27 mins      ███████████�
 </details>
 
 <details>
-  <summary>🌟 <strong>GitHub Readme Stats</strong></summary>
+  <summary> <samp>GitHub Readme Stats</samp></summary>
   
   <br>
   
@@ -106,7 +106,7 @@ Mac                      76 hrs 27 mins      ███████████�
 </details>
 
 <details>
-  <summary>🏆 <strong>Profile Trophies</strong></summary>
+  <summary> <samp>Profile Trophies</samp></summary>
   
   <br>
   
@@ -116,7 +116,7 @@ Mac                      76 hrs 27 mins      ███████████�
 </details>
 
 <details>
-  <summary>🃏 <strong>Summary Cards</strong></summary>
+  <summary> <samp>Summary Cards</samp></summary>
   
   <br>
   
@@ -130,7 +130,7 @@ Mac                      76 hrs 27 mins      ███████████�
 </details>
 
 <details>
-  <summary>⚡ <strong>Recent Activities</strong></summary>
+  <summary> <samp>Recent Activities</samp></summary>
   
   <br>
   
@@ -151,7 +151,7 @@ Mac                      76 hrs 27 mins      ███████████�
 </details>
 
 <details>
-  <summary>🔥 <strong>Streak Stats</strong></summary>
+  <summary> <samp>Streak Stats</samp></summary>
   
   <br>
   
@@ -161,7 +161,7 @@ Mac                      76 hrs 27 mins      ███████████�
 </details>
 
 <details>
-  <summary>📈 <strong>Activity Graph</strong></summary>
+  <summary> <samp>Activity Graph</samp></summary>
   
   <br>
   
