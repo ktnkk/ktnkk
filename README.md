@@ -1,7 +1,7 @@
 [![🐙](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fktnkk%2Fhit-counter&count_bg=%23070707&title_bg=%23070707&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <details>
-  <summary> <samp>My Metrics</samp></summary>
+  <summary> <samp>my metrics</samp></summary>
   
   <br>
   
@@ -11,7 +11,7 @@
 </details>
 
 <details>
-  <summary> <samp>WakaTime Stats</samp></summary>
+  <summary> <samp>wakaTime stats</samp></summary>
   
   <br>
   
@@ -83,7 +83,7 @@ Mac                      76 hrs 2 mins       ███████████�
 
 
 <details>
-  <summary> <samp>Now Playing</samp></summary>
+  <summary> <samp>now playing</samp></summary>
   
   <br>
   
@@ -93,7 +93,7 @@ Mac                      76 hrs 2 mins       ███████████�
 </details>
 
 <details>
-  <summary> <samp>GitHub Readme Stats</samp></summary>
+  <summary> <samp>github readme stats</samp></summary>
   
   <br>
   
@@ -106,7 +106,7 @@ Mac                      76 hrs 2 mins       ███████████�
 </details>
 
 <details>
-  <summary> <samp>Profile Trophies</samp></summary>
+  <summary> <samp>profile trophies</samp></summary>
   
   <br>
   
@@ -116,7 +116,7 @@ Mac                      76 hrs 2 mins       ███████████�
 </details>
 
 <details>
-  <summary> <samp>Summary Cards</samp></summary>
+  <summary> <samp>summary cards</samp></summary>
   
   <br>
   
@@ -130,7 +130,7 @@ Mac                      76 hrs 2 mins       ███████████�
 </details>
 
 <details>
-  <summary> <samp>Recent Activities</samp></summary>
+  <summary> <samp>recent activities</samp></summary>
   
   <br>
   
@@ -151,7 +151,7 @@ Mac                      76 hrs 2 mins       ███████████�
 </details>
 
 <details>
-  <summary> <samp>Streak Stats</samp></summary>
+  <summary> <samp>streak stats</samp></summary>
   
   <br>
   
@@ -161,7 +161,7 @@ Mac                      76 hrs 2 mins       ███████████�
 </details>
 
 <details>
-  <summary> <samp>Activity Graph</samp></summary>
+  <summary> <samp>activity graph</samp></summary>
   
   <br>
   
