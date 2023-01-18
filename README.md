@@ -5,7 +5,7 @@
   
   <br>
   
- ![🐳](https://github.com/ktnkk/ktnkk/blob/main/github-metrics.svg)
+ ![🐳](https://github.com/kkhys/kkhys/blob/main/github-metrics.svg)
   
   ***
 </details>
@@ -40,8 +40,8 @@
   <summary> <samp>now playing</samp></summary>
   
   <br>
-  
- [![🐟](https://spotify-github-profile.vercel.app/api/view?uid=31ybvkrtg6lpzufa4ap3lug3xjfy&cover_image=true&theme=default)](https://open.spotify.com/user/31ybvkrtg6lpzufa4ap3lug3xjfy?si=4d057bb568954fa5)
+ 
+ [![🐟](https://spotify-github-profile.vercel.app/api/view?uid=31ryofms4dnv7mrohhepo4c4zgqu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
   ***
 </details>
