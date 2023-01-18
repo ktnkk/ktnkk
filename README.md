@@ -1,5 +1,7 @@
 [![🐙](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fktnkk%2Fhit-counter&count_bg=%23070707&title_bg=%23070707&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
+[![wakatime](https://wakatime.com/badge/user/43ee8060-219a-4cc8-b7a0-9a681ab5a8a7.svg)](https://wakatime.com/@43ee8060-219a-4cc8-b7a0-9a681ab5a8a7)
+
 <details>
   <summary> <samp>my metrics</samp></summary>
   
