@@ -86,27 +86,6 @@
 </details>
 
 <details>
-  <summary> <samp>recent activities</samp></summary>
-  
-  <br>
-  
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/ktnkk/tipswatch/pull/96) in [ktnkk/tipswatch](https://github.com/ktnkk/tipswatch)
-2. 🎉 Merged PR [#119](https://github.com/ktnkk/blog/pull/119) in [ktnkk/blog](https://github.com/ktnkk/blog)
-3. 💪 Opened PR [#119](https://github.com/ktnkk/blog/pull/119) in [ktnkk/blog](https://github.com/ktnkk/blog)
-4. 🎉 Merged PR [#118](https://github.com/ktnkk/blog/pull/118) in [ktnkk/blog](https://github.com/ktnkk/blog)
-5. 🎉 Merged PR [#117](https://github.com/ktnkk/blog/pull/117) in [ktnkk/blog](https://github.com/ktnkk/blog)
-6. 💪 Opened PR [#117](https://github.com/ktnkk/blog/pull/117) in [ktnkk/blog](https://github.com/ktnkk/blog)
-7. ❗️ Opened issue [#116](https://github.com/ktnkk/blog/issues/116) in [ktnkk/blog](https://github.com/ktnkk/blog)
-8. ❗️ Opened issue [#115](https://github.com/ktnkk/blog/issues/115) in [ktnkk/blog](https://github.com/ktnkk/blog)
-9. ❗️ Opened issue [#114](https://github.com/ktnkk/blog/issues/114) in [ktnkk/blog](https://github.com/ktnkk/blog)
-10. ❗️ Opened issue [#113](https://github.com/ktnkk/blog/issues/113) in [ktnkk/blog](https://github.com/ktnkk/blog)
-<!--END_SECTION:activity-->
-  
-***
-</details>
-
-<details>
   <summary> <samp>streak stats</samp></summary>
   
   <br>
