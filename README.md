@@ -146,7 +146,7 @@ Mac                      11 hrs 51 mins      ███████████�
   
   <br>
   
-  [![🐡](https://activity-graph.herokuapp.com/graph?username=kkhys&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![🐡](https://github-readme-activity-graph.cyclic.app/graph?username=kkhys&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   ***
 </details>
