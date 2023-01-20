@@ -19,3 +19,4 @@ jobs:
           COMMIT_BY_ME: "True"
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
+          UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
