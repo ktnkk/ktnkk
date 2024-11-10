@@ -113,10 +113,10 @@
                             <rect mask="url(#issues-bar)" x="0.043920942303853065" y="0" width="0.702735076861649" height="8" fill="#56d364"/>
                             <rect mask="url(#issues-bar)" x="0.7466560191655021" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="0.7466560191655021" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="0.7466560191655021" y="0" width="2.2399680574965064" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="2.9866240766620082" y="0" width="4.919145538031543" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="7.905769614693551" y="0" width="76.86164903174286" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="84.76741864643641" y="0" width="135.2325813535636" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0.7466560191655021" y="0" width="2.1960471151926533" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="2.9427031343581556" y="0" width="4.963066480335397" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="7.905769614693552" y="0" width="68.1213815132761" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="76.02715112796966" y="0" width="143.97284887203034" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -168,7 +168,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#d2a8ff" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">3079 <small>merged</small></span>
+                                <span class="no-wrap">3278 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -181,7 +181,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ff7b72" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">112 <small>closed</small></span>
+                                <span class="no-wrap">113 <small>closed</small></span>
                             </div>
                         </div>
                     </section>
@@ -2520,7 +2520,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 7.82m out of 146m users</span>
+                                    <span class="gh">ranked 7.82m out of 148m users</span>
                                 </div>
                                 <div class="text">Published 9 public repositories</div>
                             </div>
@@ -2572,7 +2572,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.07m out of 146m users</span>
+                                    <span class="gh">ranked 1.07m out of 148m users</span>
                                 </div>
                                 <div class="text">Followed by 15 users</div>
                             </div>
